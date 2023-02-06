@@ -38,6 +38,9 @@ To run the application in your terminal:
 
 
 ## Links
+Visit the link to view a walkthrough video of this application:
+
+https://drive.google.com/file/d/1_YPmGYvLsYx2B_sPqEstFXi2Vb8d0NKE/view
 
 
 ## Licensing 
